@@ -8,9 +8,25 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/venkatravichandran)
+<p align="center">
+  <a href="https://linkedin.com/in/venkatravichandran">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:venkatravichandran01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://venkatravi057.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
-Automation Test Engineer with 3+ years in Automotive domain at TATA Technologies. Specialized in Selenium WebDriver, Cucumber BDD, API testing (Postman), and CI/CD (Jenkins). Accelerated releases by 70%, achieved 85% test coverage. Chennai, Tamil Nadu. [file:1]
+<div align="center">
+  <b>🚀 Automation Test Engineer | 3+ Yrs @ TATA Technologies</b><br>
+  <i>Selenium • Cucumber BDD • Postman • Jenkins • 85% Test Coverage • 70% Faster Releases</i><br>
+  <code>Chennai, Tamil Nadu 🇮🇳</code>
+</div>
+
+
 
 🎓 B.E. Computer Science - [Info Institute of Engineering](https://infoengg.com/) (2022)  
 🔍 Passionate about QA automation, GDPR compliance, and scalable test frameworks  
@@ -45,11 +61,16 @@ Automation Test Engineer with 3+ years in Automotive domain at TATA Technologies
 - **Car Booking Platform**: Data-driven tests for 50+ models; 50% fewer post-release bugs [file:1]
 
 
-## 🌱 Currently Learning & Focus
-- Playwright for cross-browser automation
-- Docker/Kubernetes for test environments
-- Advanced REST Assured for API contracts
-- Performance engineering in CI/CD pipelines
+## 🎯📚 Currently Learning
+🎭 Playwright - Cross-browser automation
+
+🐳 Docker - Containerized test environments
+
+☸️ Kubernetes - Scalable test infra
+
+📡 REST Assured - Advanced API validation
+
+<div align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/> </div>
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
 
